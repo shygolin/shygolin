@@ -24,13 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shygolin&theme=tokyo-night)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shygolin&show_icons=true&locale=zh&layout=compact&theme=tokyonight" alt="shygolin" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&locale=zh&theme=tokyonight" alt="shygolin" /></p>
 ---
 
 
