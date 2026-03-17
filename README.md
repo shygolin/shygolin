@@ -24,8 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shygolin&show_icons=true&locale=zh&layout=compact&theme=tokyonight" alt="shygolin" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&locale=zh&theme=tokyonight" alt="shygolin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shygolin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shygolin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&locale=en&theme=tokyonight" alt="shygolin" /></p>
 ---
 
 
