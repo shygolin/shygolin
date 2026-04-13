@@ -1,19 +1,5 @@
 # Hi 👋 我叫林佑尚
 
-🎓 High school student from Taiwan  
-💻 Interested in Programming, Electronics, and Semiconductor Engineering  
-
----
-
-## 🚀 Projects
-
-- 🤖 Discord Bots – automation and language tools  
-- 💬 UDP Chatroom (PyQt)  
-- 🌱 Arduino Automation System  
-- 🔤 Zhuyin Decoder Bot  
-
----
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
