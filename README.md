@@ -8,9 +8,9 @@
 ## 🚀 Projects
 
 - 🤖 Discord Bots – automation and language tools  
-- 💬 UDP Chatroom (PyQt) – GUI networking chatroom  
-- 🌱 Arduino Automation System – automatic watering system  
-- 🔤 Zhuyin Decoder Bot – converting Zhuyin to Chinese text  
+- 💬 UDP Chatroom (PyQt)  
+- 🌱 Arduino Automation System  
+- 🔤 Zhuyin Decoder Bot  
 
 ---
 
@@ -24,10 +24,27 @@
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shygolin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shygolin" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&locale=en&theme=tokyonight" alt="shygolin" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shygolin&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
+## 📈 Activity Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shygolin&theme=tokyo-night)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shygolin&theme=tokyonight)
+
+---
 
 ⭐ If you like my projects, feel free to star them!
