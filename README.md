@@ -25,26 +25,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shygolin&show_icons=true&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=shygolin)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shygolin&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shygolin&theme=tokyo-night)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shygolin&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shygolin)
 
 ⭐ If you like my projects, feel free to star them!
