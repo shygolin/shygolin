@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shygolin)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shygolin)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shygolin)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shygolin)
 
 ⭐ If you like my projects, feel free to star them!
