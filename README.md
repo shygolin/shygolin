@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shygolin
+# Hi 👋 我叫林佑尚
 
 🎓 High school student from Taiwan  
 💻 Interested in Programming, Electronics, and Semiconductor Engineering  
